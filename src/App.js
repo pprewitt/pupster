@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import About from './components/About';
+import Pupster from './components/Pupster'
+
 
 function App() {
   return (
